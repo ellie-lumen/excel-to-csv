@@ -4,8 +4,6 @@ This code joins multiple Excel files into CSV files. All the tabs from multiple 
 
 It'll look prettier if the tabs that share the same name also share the same column layout.
 
-## Interact with this jupyter notebook in your browser: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ellie-lumen/excel_to_csv/master)
-
 ## How to use
 
 * Put all the Excel files you want to join in one folder.
